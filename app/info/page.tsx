@@ -60,7 +60,7 @@ export default function InfoPage() {
         <div className="max-w-3xl mx-auto">
           <Link href="/">
             <Image
-              src="/giglocal-hero.png"
+              src="/images/giglocal-hero.png"
               alt="GigLocal — Find Your Sound"
               width={160}
               height={46}
